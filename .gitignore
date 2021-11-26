@@ -21,4 +21,3 @@ sources/maps/*.txt
 text/
 sources/mortality-bills/WeeklyBillsMortality1644to1849/
 sources/mortality-bills/cleaned/*.rds
-sources/mortality-bills/get_extensive_bills.sh
